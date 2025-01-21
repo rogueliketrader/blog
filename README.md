@@ -2,6 +2,12 @@
 
 This site is meant to track my thoughts, feelings, emotions, and trades.
 
+Rules:
+NO TRADE
+- late entry
+- chasing
+- FOMO
+
 ## 01/20/2025 - MLK
 
 ### Trade 1 - To YPOC
@@ -40,3 +46,32 @@ Less attachment to this trade because its not top tier.
 
 
 ## 01/21/2025
+
+### Missed Trade 1 - Discord Callout
+In overnight, a signal candle formed and admin called out they were long and holding until overnight highs.
+- This was not in my playbook
+- Emotions:
+I actually logged into my broker and almost placed a long trade.  Very glad I did not even thought the trade worked out for 100+ points.
+I have problems with chasing and feeling FOMO due to server callouts.  One thing about the server callouts is they call out the trade only after their entry is long past.
+So this would have been a late entry meaning I missed the trade.  Happy I stuck to my rules.  If I'm late, then I missed the trade.  Wait for the next one.
+
+### Trade 1 - LOSS - NQ Mean Reversion POC
+Placed after NQ swept OVN high.  Expecting POC
+- Slightly late entry, would have been 1:1
+- Stopped out on pullback, then next 2 minutes immediately dumped to target
+
+### Trade 2 - LOSS - Chasing Candle
+This is part of the loss above.  There was 1 engulfing green candle.  I assumed this signaled upside but price stalled, then dumped to original TP.
+- Emotions:
+I was chasing the green candle and should kept to my original plan above due to the sweep
+
+### Trade 3 - ES Sweep Mean Reversion
+As a result of the 2 losses above, I patiently waited for the usual setup.  Since price looked bullish and looked very rangely, expecting a sweep and mean reversion play.
+Waited for ES to sweep, then took a short on both accounts.  Was able to make back the losses and then some.  Trailed pretty tightly and got stopped out.
+
+![image](https://github.com/user-attachments/assets/01f72b40-54f9-4b97-b6b7-c229fe442c50)
+
+
+## 01/22/2025
+
+
